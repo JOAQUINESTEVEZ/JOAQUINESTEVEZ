@@ -1,4 +1,4 @@
-![MasterHead](https://nodd3r.com/media/blog/Portadas_blog_24.png)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCOeOcPTfHDbKCD446sG62ZwBcn6nEP4C8Zg&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Joaquin Estevez</h1>
 <h3 align="center">A passionate computer science student at the University of West Florida 📚. I'm on track to graduate in May 2025 and absolutely love diving into the world of machine learning 🤖. Whether it's crafting code or building ML models, I find joy in every bit of the process. Excited to learn, grow, and contribute to the tech community! 🚀 #FutureTechie #MachineLearningEnthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/7-23-2019/q3ItDm.gif">
