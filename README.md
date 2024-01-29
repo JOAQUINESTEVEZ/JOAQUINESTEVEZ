@@ -1,17 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Joaquin Estevez</h1>
-<h3 align="center">A passionate computer science student at the University of West Florida 📚. I'm on track to graduate in May 2025 and absolutely love diving into the world of machine learning 🤖. Whether it's crafting code or building ML models, I find joy in every bit of the process. Excited to learn, grow, and contribute to the tech community! 🚀 #FutureTechie #MachineLearningEnthusiast</h3>
+<h3 align="center">A passionate computer science student at the University of West Florida 📚. I'm on track to graduate in May 2025 and absolutely love diving into the world of Software Engineering 🤖. Excited to learn, grow, and contribute to the tech community! 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/7-23-2019/q3ItDm.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaquinestevez&label=Profile%20views&color=0e75b6&style=flat" alt="joaquinestevez" /> </p>
 
 - 🔭 I'm currently working on **a Recommendation System**
 
-- 💬 Ask me about **Machine Learning and Data Science**
-
 - 📫 How to reach me **joaquin2001estevez@gmail.com**
 
-- ⚡ Fun fact **I'm from Argentina**
+- ⚡ Fun fact **I play tennis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
